@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184481959483",
+    "project_id": "lag-porto",
+    "storage_bucket": "lag-porto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184481959483:android:118a504e4eb50b74e1161e",
+        "android_client_info": {
+          "package_name": "com.example.spinwheel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxsiklyJwv-58JE7_5OOypK2LzkmDJIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184481959483:android:dd836514f268c990e1161e",
+        "android_client_info": {
+          "package_name": "com.lagoinhaporto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxsiklyJwv-58JE7_5OOypK2LzkmDJIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
